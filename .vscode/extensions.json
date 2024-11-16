@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "blakeh.jump-to-test",
+    "formulahendry.dotnet-test-explorer",
+    "ms-dotnettools.csharp",
+    "aliasadidev.nugetpackagemanagergui",
+    "hbenl.vscode-test-explorer",
+    "jmrog.vscode-nuget-package-manager",
+    "fernandoescolar.vscode-solution-explorer",
+    "ms-vscode.vs-keybindings"
+  ]
+}
