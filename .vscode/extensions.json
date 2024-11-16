@@ -7,6 +7,7 @@
     "hbenl.vscode-test-explorer",
     "jmrog.vscode-nuget-package-manager",
     "fernandoescolar.vscode-solution-explorer",
-    "ms-vscode.vs-keybindings"
+    "ms-vscode.vs-keybindings",
+    "ms-dotnettools.csdevkit"
   ]
 }
